@@ -41,7 +41,7 @@ if (searchTerm) {
         if (filteredArticles.length === 0) {
             const strong = document.createElement("strong");
             strong.textContent = value;
-            message.textContent = "No articles found for the";
+            message.textContent = "No articles found for the ";
             message.appendChild(strong)
             message.append(" term");
 
