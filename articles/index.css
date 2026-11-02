@@ -16,7 +16,7 @@
 .article-group {
     min-width: 400px;
     padding: 20px;
-    border: 1px solid black;
+    border: 1px solid rgb(219, 219, 219);
 }
 
 .article-name {

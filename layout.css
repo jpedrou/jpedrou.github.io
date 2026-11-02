@@ -6,7 +6,7 @@ body {
     padding: 10px;
 }
 
-p {
+p, ul {
     max-width: 400px;
 }
 
@@ -22,5 +22,9 @@ hr {
 }
 
 img {
+    max-width: 400px;
+}
+
+.meme {
     max-height: 300px;
 }
